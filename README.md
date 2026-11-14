@@ -58,7 +58,7 @@ The laboratory exercises focus on developing an understanding of:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AnshulPareek/C-Programming-Lab.git
+git clone https://github.com/AnshulPareek/C-lab-Programs.git
 ```
 
 2. Navigate to the desired lab directory.
